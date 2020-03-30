@@ -1,0 +1,5 @@
+Account Number :          1234
+Account Holder Name : "  Moain" 
+National Identity Card :  5555555555555
+Type of  account  c
+Total amount is 1000

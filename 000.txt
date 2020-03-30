@@ -1,0 +1,5 @@
+Account Number :          000
+Account Holder Name : "  muhammad" 
+National Identity Card :  8888888888888
+Type of  account  c
+Total Amount : 74000
